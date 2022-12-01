@@ -1,4 +1,4 @@
-# LiveViewTodos
+# LiveView
 
 To start your Phoenix server:
 
